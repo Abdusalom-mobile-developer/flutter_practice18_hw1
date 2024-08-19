@@ -160,6 +160,7 @@ class _SignUpPageState extends State<SignUpPage> {
                     Container(
                       margin: EdgeInsets.only(left: 90, right: 90),
                       width: double.infinity,
+                      height: 50,
                       decoration: BoxDecoration(
                           color: Colors.grey[800],
                           borderRadius: BorderRadius.circular(50)),
